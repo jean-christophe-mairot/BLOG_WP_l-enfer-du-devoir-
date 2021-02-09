@@ -5,8 +5,8 @@ Blog de la promotion
 - [x] 3. Installer une extension de sécurité, de SEO, de mise en page (elementor), formulaire de
      contact, générateur de faux contenu et maintenance.
 - [x] 4. Créer un thème enfant et l'activer
-- [ ] 5. Dans ce thème enfant faire pour charger votre propre feuille css et votre propre fichier JS
-- [ ] 6. Dans le fichier css changer le background du body pour tester si votre liaison est bonne
+- [x] 5. Dans ce thème enfant faire pour charger votre propre feuille css et votre propre fichier JS
+- [x] 6. Dans le fichier css changer le background du body pour tester si votre liaison est bonne
 - [ ] 7. Créer 2 catégories (Nouveaux produits et Actualités)
 - [ ] 8. Créer 4 articles avec image mise en avant en utilisant elementor (Mise en page
      personnelle et faux texte). Deux articles avec la catégorie Nouveaux produits et deux
