@@ -12,11 +12,11 @@ Blog de la promotion
      personnelle et faux texte). Deux articles avec la catégorie Nouveaux produits et deux
      articles avec la catégorie Actualités)
 - [x] 9. Créer une page contact contenant le formulaire de contact
-- [ ] 10. Créer une page 'qui sommes-nous' (Faux contenu)
-- [ ] 11. Créer le menu suivant (Accueil, Actualités (liste des articles de la catégorie Actualités),
+- [x] 10. Créer une page 'qui sommes-nous' (Faux contenu)
+- [x] 11. Créer le menu suivant (Accueil, Actualités (liste des articles de la catégorie Actualités),
       Nouveautés (Liste des articles de la catégorie nouveaux produits), qui sommes-nous,
       contact
-- [ ] 12. Tester votre site pour voir si le menu s'afficher et si le contenu s'affiche.
+- [x] 12. Tester votre site pour voir si le menu s'afficher et si le contenu s'affiche.
 - [ ] 13. Installer les extensions Custom Post Type UI et ACF Post Types et Advanced Custom Fields
 - [ ] 14. Créer type de poste Produits
 - [ ] 15. Créer un Advanced Custom Field qui contiendra les champs suivants : Désignation du
