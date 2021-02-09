@@ -7,11 +7,11 @@ Blog de la promotion
 - [x] 4. Créer un thème enfant et l'activer
 - [x] 5. Dans ce thème enfant faire pour charger votre propre feuille css et votre propre fichier JS
 - [x] 6. Dans le fichier css changer le background du body pour tester si votre liaison est bonne
-- [ ] 7. Créer 2 catégories (Nouveaux produits et Actualités)
-- [ ] 8. Créer 4 articles avec image mise en avant en utilisant elementor (Mise en page
+- [x] 7. Créer 2 catégories (Nouveaux produits et Actualités)
+- [x] 8. Créer 4 articles avec image mise en avant en utilisant elementor (Mise en page
      personnelle et faux texte). Deux articles avec la catégorie Nouveaux produits et deux
      articles avec la catégorie Actualités)
-- [ ] 9. Créer une page contact contenant le formulaire de contact
+- [x] 9. Créer une page contact contenant le formulaire de contact
 - [ ] 10. Créer une page 'qui sommes-nous' (Faux contenu)
 - [ ] 11. Créer le menu suivant (Accueil, Actualités (liste des articles de la catégorie Actualités),
       Nouveautés (Liste des articles de la catégorie nouveaux produits), qui sommes-nous,
