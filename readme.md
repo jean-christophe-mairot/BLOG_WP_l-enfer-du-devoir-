@@ -4,7 +4,7 @@ Blog de la promotion
 - [x] 2. Choisir un thème et l'installer et supprimer tous les thèmes par défaut de WordPress
 - [x] 3. Installer une extension de sécurité, de SEO, de mise en page (elementor), formulaire de
      contact, générateur de faux contenu et maintenance.
-- [ ] 4. Créer un thème enfant et l'activer
+- [x] 4. Créer un thème enfant et l'activer
 - [ ] 5. Dans ce thème enfant faire pour charger votre propre feuille css et votre propre fichier JS
 - [ ] 6. Dans le fichier css changer le background du body pour tester si votre liaison est bonne
 - [ ] 7. Créer 2 catégories (Nouveaux produits et Actualités)
@@ -27,3 +27,9 @@ Blog de la promotion
 - [ ] 19. Créer un shortcode qui va lister les types de poste Produits qui devra afficher le contenu
       des deux produits
 - [ ] 20. Ajouter le shortcode dans la page produit et tester si les deux produits s'affichent.
+
+liens:
+
+https://hop-pop-up-site-web-bordeaux.com/ajouter-du-code-jquery-ou-javascript-sur-son-site-wordpress/
+https://www.b-website.com/charger-proprement-ses-scripts-ses-styles-apres-ceux-du-theme-wordpress
+https://wp-ninja.fr/comment-ajouter-du-javascript-sur-wordpress/
