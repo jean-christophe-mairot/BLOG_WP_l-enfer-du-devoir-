@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the WordPress - 5.6.x - Development package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-02-02 13:10:32+0000\n"
+"PO-Revision-Date: 2021-02-09 20:00:37+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -2312,7 +2312,7 @@ msgstr "<strong>Erreur</strong> : L’e-mail n’a pas pu être envoyé. Votre 
 
 #: wp-login.php:484
 msgid "https://wordpress.org/support/article/resetting-your-password/"
-msgstr "https://fr.wordpress.org/support/article/resetting-your-password/"
+msgstr "https://wordpress.org/support/article/resetting-your-password/"
 
 #: wp-includes/customize/class-wp-customize-theme-control.php:98
 #: wp-admin/themes.php:397 wp-admin/themes.php:736
